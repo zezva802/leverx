@@ -1,0 +1,35 @@
+{
+    "name": "node-js",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node --watch app.js",
+        "dev": "node --inspect app.js",
+        "lint": "eslint .",
+        "prettier:check": "prettier --check .",
+        "prettier:fix": "prettier --write .",
+        "build": "npm run lint && npm run prettier:check",
+        "prepare": "husky"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "bcrypt": "^6.0.0",
+        "dotenv": "^17.2.2",
+        "express": "^5.1.0",
+        "jsonwebtoken": "^9.0.2",
+        "uuid": "^13.0.0",
+        "winston": "^3.17.0"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.36.0",
+        "eslint": "^9.36.0",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-prettier": "^5.5.4",
+        "globals": "^16.4.0",
+        "husky": "^9.1.7",
+        "prettier": "^3.6.2"
+    }
+}

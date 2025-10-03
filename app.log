@@ -1,0 +1,136 @@
+[24-09-2025 20:09:17] INFO: Incoming request: GET /
+[24-09-2025 20:09:38] INFO: Incoming request: GET /health
+[24-09-2025 20:09:38] INFO: Health check endpoint was called
+[28-09-2025 11:29:10] INFO: Incoming request: GET /
+[28-09-2025 11:29:18] INFO: Incoming request: GET /health
+[28-09-2025 11:29:18] INFO: Health check endpoint was called
+[28-09-2025 11:29:23] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:09:08] INFO: Incoming request: GET /
+[28-09-2025 13:09:17] INFO: Incoming request: GET /health
+[28-09-2025 13:09:17] INFO: Health check endpoint was called
+[28-09-2025 13:09:21] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:09:30] INFO: Incoming request: GET /health
+[28-09-2025 13:09:30] INFO: Health check endpoint was called
+[28-09-2025 13:09:30] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:13:23] INFO: Incoming request: GET /health
+[28-09-2025 13:13:23] INFO: Health check endpoint was called
+[28-09-2025 13:13:23] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:14:14] INFO: Incoming request: GET /
+[28-09-2025 13:14:21] INFO: Incoming request: GET /health
+[28-09-2025 13:14:21] INFO: Health check endpoint was called
+[28-09-2025 13:14:26] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:14:40] INFO: Incoming request: GET /health
+[28-09-2025 13:14:40] INFO: Health check endpoint was called
+[28-09-2025 13:14:40] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:15:41] INFO: Incoming request: GET /
+[28-09-2025 13:15:46] INFO: Incoming request: GET /health
+[28-09-2025 13:15:46] INFO: Health check endpoint was called
+[28-09-2025 13:15:49] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:15:55] INFO: Incoming request: GET /health
+[28-09-2025 13:15:55] INFO: Health check endpoint was called
+[28-09-2025 13:15:55] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:17:35] INFO: Incoming request: GET /
+[28-09-2025 13:17:41] INFO: Incoming request: GET /health
+[28-09-2025 13:17:41] INFO: Health check endpoint was called
+[28-09-2025 13:17:44] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[28-09-2025 13:17:50] INFO: Incoming request: GET /health
+[28-09-2025 13:17:50] INFO: Health check endpoint was called
+[28-09-2025 13:17:50] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[01-10-2025 19:52:38] INFO: Incoming request: GET /
+[01-10-2025 19:52:48] INFO: Incoming request: GET /health
+[01-10-2025 19:52:48] INFO: Health check endpoint was called
+[01-10-2025 19:52:54] INFO: Incoming request: POST /register
+[01-10-2025 19:53:23] INFO: Incoming request: GET /register
+[01-10-2025 19:53:27] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[01-10-2025 19:55:50] INFO: Incoming request: POST /register
+[01-10-2025 19:56:54] INFO: Incoming request: POST /register
+[01-10-2025 19:58:07] INFO: Incoming request: POST /register
+[01-10-2025 19:58:35] INFO: Incoming request: POST /register
+[01-10-2025 20:00:24] INFO: Incoming request: POST /register
+[01-10-2025 20:01:44] INFO: Incoming request: POST /register
+[01-10-2025 20:37:09] INFO: Incoming request: POST /login
+[01-10-2025 20:39:19] INFO: Incoming request: POST /login
+[01-10-2025 20:41:13] INFO: Incoming request: GET /register
+[01-10-2025 20:41:14] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[01-10-2025 20:41:17] INFO: Incoming request: GET /
+[01-10-2025 20:41:18] INFO: Incoming request: GET /.well-known/appspecific/com.chrome.devtools.json
+[01-10-2025 20:41:35] INFO: Incoming request: GET /health
+[01-10-2025 20:41:35] INFO: Health check endpoint was called
+[01-10-2025 20:41:40] INFO: Incoming request: GET /
+[01-10-2025 20:41:54] INFO: Incoming request: POST /login
+[01-10-2025 20:43:01] INFO: Incoming request: POST /login
+[01-10-2025 20:45:09] INFO: Incoming request: GET /
+[01-10-2025 20:45:22] INFO: Incoming request: POST /login
+[01-10-2025 20:45:46] INFO: Incoming request: POST /login
+[01-10-2025 20:48:44] INFO: Incoming request: POST /login
+[01-10-2025 20:49:23] INFO: Incoming request: POST /login
+[01-10-2025 20:52:33] INFO: Incoming request: POST /login
+[01-10-2025 20:53:22] INFO: Incoming request: POST /login
+[01-10-2025 20:56:38] INFO: Incoming request: GET /test-middleware
+[01-10-2025 20:57:37] INFO: Incoming request: GET /test-middleware
+[01-10-2025 20:58:07] INFO: Incoming request: GET /test-middleware
+[01-10-2025 20:58:16] INFO: Incoming request: POST /login
+[01-10-2025 20:58:25] INFO: Incoming request: GET /test-middleware
+[01-10-2025 20:58:32] INFO: Incoming request: POST /login
+[01-10-2025 21:01:51] INFO: Incoming request: GET /test-middleware
+[01-10-2025 21:03:45] INFO: Incoming request: POST /login
+[01-10-2025 21:04:16] INFO: Incoming request: GET /test-middleware
+[01-10-2025 21:06:00] INFO: Incoming request: POST /login
+[01-10-2025 21:08:14] INFO: Incoming request: POST /login
+[02-10-2025 00:03:30] INFO: Incoming request: GET /test-middleware
+[02-10-2025 00:18:32] INFO: Incoming request: POST /login
+[02-10-2025 00:19:05] INFO: Incoming request: GET /profile
+[02-10-2025 00:20:28] INFO: Incoming request: POST /login
+[02-10-2025 00:21:20] INFO: Incoming request: GET /profile
+[02-10-2025 00:21:39] INFO: Incoming request: GET /profile?token=eyJBdXRob3JpemF0aW9uIjoiQmVhcmVyIGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqQTRaak5rTjJWa0xUTmlZVGd0TkdabE5pMWhPRGt5TFdVMU5qZzFOREZpWVdaa01DSXNJbVZ0WVdsc0lqb2lkbUZxWVVCbGVHRnRjR3hsTG1OdmJTSXNJbWxoZENJNk1UYzFPVE0xTnpJeU9Dd2laWGh3SWpveE56VTVNell3T0RJNGZRLkY0OTBrRDA5NTdFR0ZKVVRFZzRhMWNrY3RVRHRrN3hmYi1rSGMtc1BpbVUiLCJhbGciOiJIUzI1NiJ9.e30.AIaSyTqUfWjdzQ3smgC47WH2AIthhYDVgZ9PwsL-l5E
+[02-10-2025 00:22:07] INFO: Incoming request: GET /profile
+[02-10-2025 00:23:00] INFO: Incoming request: GET /profile
+[02-10-2025 00:23:38] INFO: Incoming request: POST /login
+[02-10-2025 00:24:30] INFO: Incoming request: GET /profile
+[02-10-2025 00:29:07] INFO: Incoming request: POST /register
+[02-10-2025 00:29:13] INFO: Incoming request: POST /login
+[02-10-2025 00:29:57] INFO: Incoming request: GET /profile
+[02-10-2025 00:35:08] INFO: Incoming request: POST /login
+[02-10-2025 00:35:34] INFO: Incoming request: GET /profile
+[02-10-2025 00:37:23] INFO: Incoming request: POST /login
+[02-10-2025 00:38:01] INFO: Incoming request: GET /profile
+[02-10-2025 00:40:54] INFO: Incoming request: POST /login
+[02-10-2025 00:43:12] INFO: Incoming request: GET /profile
+[02-10-2025 00:44:13] INFO: Incoming request: GET /profile
+[02-10-2025 00:44:38] INFO: Incoming request: POST /login
+[02-10-2025 00:45:07] INFO: Incoming request: GET /profile
+[02-10-2025 21:02:37] INFO: Incoming request: POST /login
+[02-10-2025 21:03:39] INFO: Incoming request: POST /login
+[02-10-2025 21:05:34] INFO: Incoming request: GET /profile
+[02-10-2025 21:07:56] INFO: Incoming request: POST /login
+[02-10-2025 21:08:08] INFO: Incoming request: GET /profile
+[02-10-2025 21:12:30] INFO: Incoming request: POST /login
+[02-10-2025 21:13:16] INFO: Incoming request: GET /profile
+[02-10-2025 21:13:22] INFO: Incoming request: GET /profile
+[02-10-2025 21:21:11] INFO: Incoming request: POST /login
+[02-10-2025 21:22:40] INFO: Incoming request: GET /profile
+[02-10-2025 21:23:35] INFO: Incoming request: GET /profile
+[02-10-2025 21:24:43] INFO: Incoming request: POST /login
+[02-10-2025 21:25:00] INFO: Incoming request: POST /login
+[02-10-2025 23:58:11] INFO: Incoming request: POST /login
+[02-10-2025 23:59:07] INFO: Incoming request: GET /profile
+[03-10-2025 00:03:45] INFO: Incoming request: POST /register
+[03-10-2025 00:03:52] INFO: Incoming request: POST /login
+[03-10-2025 00:05:01] INFO: Incoming request: GET /profile
+[03-10-2025 00:05:49] INFO: Incoming request: GET /profile
+[03-10-2025 00:08:12] INFO: Incoming request: POST /login
+[03-10-2025 00:08:37] INFO: Incoming request: GET /profile
+[03-10-2025 00:14:30] INFO: Incoming request: POST /login
+[03-10-2025 00:14:58] INFO: Incoming request: GET /profile
+[03-10-2025 00:18:53] INFO: Incoming request: GET /profile
+[03-10-2025 00:19:38] INFO: Incoming request: GET /profile
+[03-10-2025 00:22:50] INFO: Incoming request: GET /profile
+[03-10-2025 00:26:28] INFO: Incoming request: POST /register
+[03-10-2025 00:26:54] INFO: Incoming request: POST /login
+[03-10-2025 00:27:29] INFO: Incoming request: GET /profile
+[03-10-2025 00:44:25] INFO: Incoming request: POST /login
+[03-10-2025 00:45:11] INFO: Incoming request: PUT /profile
+[03-10-2025 01:05:38] INFO: Incoming request: POST /login
+[03-10-2025 01:07:42] INFO: Incoming request: GET /test-middleware
+[03-10-2025 01:07:54] INFO: Incoming request: POST /posts%20
+[03-10-2025 01:09:01] INFO: Incoming request: POST /posts%20
